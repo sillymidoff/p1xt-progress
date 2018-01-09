@@ -1,0 +1,53 @@
+"""
+Problem Set 1C
+
+Calculate the right amount to save, print number of steps in
+bisection search.
+"""
+INITIAL_ANNUAL_SALARY = float(input("Enter your annual salary: "))
+
+PORTION_DOWN_PAYMENT = 0.25
+RATE_OF_RETURN = 0.04
+SEMI_ANNUAL_RAISE = 0.07
+MONTHS = 36
+ACCURACY = 100
+MONTHLY_RATE_OF_RETURN = RATE_OF_RETURN / 12
+TOTAL_COST = 1000000
+DOWN_PAYMENT = TOTAL_COST * PORTION_DOWN_PAYMENT
+CURRENT_SAVINGS = 0.0
+SEARCH_STEPS = 0
+SEED_HIGH = 10000
+HIGH = SEED_HIGH
+LOW = 0
+PORTION_SAVED = (HIGH + LOW) / 2
+
+
+while abs(CURRENT_SAVINGS - DOWN_PAYMENT) > ACCURACY:
+    ANNUAL_SALARY = INITIAL_ANNUAL_SALARY
+    MONTHLY_SALARY = ANNUAL_SALARY / 12
+    MONTHLY_DEPOSIT = MONTHLY_SALARY * (PORTION_SAVED / 10000)
+    CURRENT_SAVINGS = 0.0
+
+    for month in range(1, MONTHS + 1):
+        CURRENT_SAVINGS = CURRENT_SAVINGS * \
+            (1 + MONTHLY_RATE_OF_RETURN) + MONTHLY_DEPOSIT
+
+        if month % 6 == 0:
+            ANNUAL_SALARY = ANNUAL_SALARY * (1 + SEMI_ANNUAL_RAISE)
+            MONTHLY_SALARY = ANNUAL_SALARY / 12
+            MONTHLY_DEPOSIT = MONTHLY_SALARY * (PORTION_SAVED / 10000)
+    PREV_PORTION_SAVED = PORTION_SAVED
+    if CURRENT_SAVINGS > DOWN_PAYMENT:
+        HIGH = PORTION_SAVED
+    else:
+        LOW = PORTION_SAVED
+    PORTION_SAVED = int(round((HIGH + LOW) / 2))
+    SEARCH_STEPS = SEARCH_STEPS + 1
+    if PREV_PORTION_SAVED == PORTION_SAVED:
+        break
+
+if PREV_PORTION_SAVED == PORTION_SAVED and PORTION_SAVED == SEED_HIGH:
+    print("It is not possible to pay the down payment in three years.")
+else:
+    print("Best savings rate:" + str(PORTION_SAVED / 10000))
+    print("Steps in bisection search:" + str(SEARCH_STEPS))
