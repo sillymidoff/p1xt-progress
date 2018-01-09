@@ -30,7 +30,7 @@ Total Points earned: 855
 | 01-06-2018    | Book                      | 200    | Incidents in the Life of a Slave Girl                                                                         |
 | 01-07-2018    | Workout                   | 10     | Body Beast - Chest and Tris                                                                                   |
 | 01-08-2018    | Duolingo (French level 7) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
-|               |                           |        |                                                                                                               |
+| 01-09-2018    | Duolingo (French level 8) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
 |               |                           |        |                                                                                                               |
 |               |                           |        |                                                                                                               |
 
