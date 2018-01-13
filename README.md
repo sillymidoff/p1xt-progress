@@ -30,7 +30,8 @@ Total Points earned: 955
 | 01-06-2018    | Book                      | 200    | Incidents in the Life of a Slave Girl                                                                         |
 | 01-07-2018    | Workout                   | 10     | Body Beast - Chest and Tris                                                                                   |
 | 01-08-2018    | Duolingo (French level 7) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
-| 01-09-2018    | Duolingo (French level 8) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
+| 01-09-2018    | Duolingo (French level 8) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     || 01-09-2018    | Duolingo (French level 8) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
+| 01-13-2018    | Duolingo (French level 9) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
 |               |                           |        |                                                                                                               |
 |               |                           |        |                                                                                                               |
 
@@ -152,7 +153,7 @@ Total Points earned: 955
 
 ## Project ideas
 
-* Pick a template from [\[here\]](https://freebiesbug.com/psd-freebies/website-template/), [\[here\]](http://www.os-templates.com/free-website-templates), or [\[here\]](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
+* Pick a template from [\[here\]](https://freebiesbug.com/psd-freebies/website-t^emplate/), [\[here\]](http://www.os-templates.com/free-website-templates), or [\[here\]](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 * Complete any 5 projects from [100 Days of CSS](https://100dayscss.com/).
 * Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
 * Complete a CSS theme for [CSS Zen Garden](http://www.csszengarden.com/)
