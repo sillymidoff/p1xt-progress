@@ -12,7 +12,7 @@ My dual main goals are to A) study algorithms in depth and B) explore Physics. T
 
 Current Course: [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)  
 Courses Completed: 0  
-Total Points earned: 1455
+Total Points earned: 1655
 
 | Date Finished | Activity                  | Points | Links                                                                                                         |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
@@ -33,8 +33,8 @@ Total Points earned: 1455
 | 01-09-2018    | Duolingo (French level 8) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
 | 01-13-2018    | Duolingo (French level 9) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
 | 01-13-2018    | Duolingo (French level 10) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
-| 01-13-201     | Book                      | 200    | Grokking Algorithms                                                                                           |
-|               |                           |        |                                                                                                               |
+| 01-13-2018    | Book                      | 200    | Grokking Algorithms                                                                                           |
+| 01-15-2018    | Book                      | 200    | YDKJS: Up & Going                                                                                             |
 |               |                           |        |                                                                                                               |
 
 ### MITOCW Computer Science
@@ -191,7 +191,7 @@ Total Points earned: 1455
 * [ ] Mobile Applications Development with Android: Technologies and Algorithms
 * [ ] Algorithmic Game Theory
 * [ ] Twenty Lectures on Algorithmic Game Theory
-* [ ] __Currently in Progress -__ Grokking Algorithms
+* [x] Grokking Algorithms
 * [ ] Unsupervised Learning Algorithms
 * [ ] Elementary Functions: Algorithms and Implementation
 * [ ] Algorithms and Networking for Computer Games
@@ -249,7 +249,7 @@ Total Points earned: 1455
 * [ ] JavaScript Allonge
 * [ ] JavaScript Patterns: Build Better Applications with Coding and Design Patterns
 * [ ] Secrets of the JavaScript Ninja
-* [ ] YDKJS
+* [ ] __Currently in Progress - __YDKJS
 * [ ] Fluent Python: Clear, Concise, and Effective Programming
 * [ ] Python Cookbook
 * [ ] Python Crash Course: A Hands-On, Project-Based Introduction to Programming

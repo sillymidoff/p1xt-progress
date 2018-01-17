@@ -1,0 +1,50 @@
+\twocolumn
+\chapter{Book: YDKJS: Up \& Going}
+\section{Notes}
+\subsection{Into Programming}
+\begin{itemize}
+\item \textbf{Code} - a program telling the computer what tasks to perform.
+\item \textbf{Statements} - groups of words, numbers and operators that performs a specific task.
+\item \textbf{Expressions} - any reference to some number of variables or values combined with operators.
+\item \textbf{Output} - console.log / alert / etc
+\item \textbf{Input} - prompt
+\item \textbf{Operators} - assignment(=),\\ mathematics (*/+-\%),\\ compound assignment (+=, -=, *=, /=),\\ increment/decrement (++, --), \\object property access(.), \\equality (==, ===, !=, !==), \\comparison (>, <. >=, <=), \\logical(\&\&, ||)
+\item \textbf{Values \& Types} - number(math), string(to print), boolean(decision), JavaScript coerces between types automatically, but you can explicitly convert using Number(), etc.
+\item \textbf{Code Comments} - with /* */ or //
+\item \textbf{Variables} - symbolic container for a value
+\item \textbf{Conditionals} - if / else
+\item \textbf{Loops} - while, do..while, for
+\item \textbf{Functions} - named sections of code, can be passed parameters
+\item \textbf{Scope} - each function gets it's own scope, can be nested. A scope can access it's own variables, plus the variables of any scope it is nested inside, plus the variables of any scopes those scopes are nested inside, all the way up to the global scope.
+\end{itemize}
+\subsection{Into JavaScript}
+\begin{itemize}
+\item \textbf{Values \& Types} - string, number, boolean, null, undefined, object, symbol. Can determine a value's type with typeof. Note - typeof null returns "object".
+\item \textbf{Object} - a compound value you can set properties on.
+\item \textbf{Arrays} - an object that hold a set of values in numerically indexed positions. The first index is at position 0.
+\item \textbf{Built-in Type Methods} - each type has some number of built-in methods, such as toUpperCase() for strings.
+\item \textbf{Comparing Values} - a comparison is falsy ("", 0, -0, NaN, null, undefined, false) or truthy. You can explicitly coerce a value to a specific type, or JavaScript will implicitly coerce before doing comparisons. You can compare for equality (==, ===, !=, !==) or relationship (>, <, >=, <=).
+\item \textbf{Variables} - An identifier must start with a-z, A-Z, \$, or \_. It can then contain any of those characters plus the numerals 0-9.
+\item \textbf{Function Scopes} - use var to ensure variable is set in the current scope, omitting it will declare the variable on the global scope. Variables belonging to a particular scope are available to all scopes nested within that scope.
+\item \textbf{Conditionals} - in addition to if / else, if / else if / else, and switch /case are also available. Use break to end a case within a switch.
+\item \textbf{Strict Mode} - opt in with "use strict" for additional rules implemented by the JavaScript compiler, generally makes code safer and more easily optimizable.
+\item \textbf{Functions as Values} - Functions are just variables, they can be passed to and returned from other functions.
+\item \textbf{IIFEs} - Immediately Invoked Function Expressions. $$(function IIFE(){
+	console.log( "Hello!" );
+})();$$ causes the function to be executed immediately, instead of the normal function behavior (wait for some other part of the program to explicitly call the function). Important to note - the scope of the IIFE is set when it's executed, so it retains a snapshot of that scope for the life of its execution, even if the scope outside it changes before it completes.
+\item \textbf{Closure} - a way to remember and continue to access a function's scope even after the function has finished running.
+\item \textbf{Modules} - let you define private implementation, as well as a public API.
+\item \textbf{this} - IS NOT the same as this in OO patterns. In non-strict mode, this within a function points to the global object. In strict mode, this within a function is undefined. ((Revisit in later book))
+\item \textbf{Prototypes} - prototype linkage for property lookup on an object is setup at the time the object is created. If you attempt to access a property that is not available on an object, it will follow the prototype chain to see if the property exists higher up the chain. IS NOT inheritance, is behavior delegation.
+\item \textbf{Transpiling / Polyfills} - allows you to use new language features by converting them to old syntax executable within your runtime environment (node / browser).
+\end{itemize}
+\subsection{Into YDKJS}
+\begin{itemize}
+\item \textbf{Scope \& Closures} - hoisting / lexical scope / closure / module pattern
+\item \textbf{this \& Object Prototypes} - thorough review of "this" - prototypal delegation
+\item \textbf{Types \& Grammar} - Type coersion
+\item \textbf{Async \& Performance}- Promises / Generators / parallelism with Web Workers and SIMD / Optimization techniques
+\item \textbf{ES6 \& Beyond} - both the short- and \\mid-term visions of where the language is headed, not just the known stuff like ES6 but the likely stuff beyond
+\end{itemize}
+
+\onecolumn
