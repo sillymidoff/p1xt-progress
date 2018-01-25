@@ -12,7 +12,7 @@ My dual main goals are to A) study algorithms in depth and B) explore Physics. T
 
 Current Course: [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)  
 Courses Completed: 0  
-Total Points earned: 2070
+Total Points earned: 2170
 
 | Date Finished | Activity      | Points | Links     |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
@@ -40,6 +40,8 @@ Total Points earned: 2070
 | 01-21-2018 | HackerRank (10 Problems) | 50 ||
 | 01-24-2018    | Duolinglo (French level 11) | 100        | [Duolingo](https://www.duolingo.com/P1xt)           |
 | 01-25-2018  | Blog Post  |  15      |  [Angular — React — Vue](https://medium.com/p1xts-blog/angular-react-vue-655e89b655e2)     |
+| 01-25-2018  | Official Docs  |  50      |  [Intro To React](https://reactjs.org/tutorial/tutorial.html) - All sections      |
+| 01-25-2018  | Official Docs  |  50      |  [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)     |
 
 |   |   |        |       |
 
@@ -50,9 +52,9 @@ Total Points earned: 2070
 
 ### Frontend Frameworks
 
-* [Angular](frontend-frameworks/angular.md)
-* [React](frontend-frameworks/react.md)
-* [Vue](frontend-frameworks/vue.md)
+* [Angular](2018/progress/frontend_frameworks/angular/angular.md)
+* [React](2018/progress/frontend_frameworks/react/react.md)
+* [Vue](2018/progress/frontend_frameworks/vue/vue.md)
 
 ### MITOCW Computer Science
 

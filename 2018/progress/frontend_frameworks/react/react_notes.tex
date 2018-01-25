@@ -1,0 +1,41 @@
+\twocolumn
+\chapter{Frontend Frameworks: React}
+\section{Basics}
+\begin{itemize}
+\item \textbf{A React component class} - extends React.component. Inside a React component class, access props with {this.props} and state with {this.state}.
+\item \textbf{Functional components} only consist of a render method. They do not define a class extending React.Component, they are simply a function that takes props and returns what should be rendered. Inside a functional component, access props with {props} not {this.props}.
+\item \textbf{A component} - takes in parameters, called props, and returns a hierarchy of views to display via the render method.
+\item \textbf{The render method} - returns a description of what you want to render, and then React takes that description and renders it to the screen. In particular, render returns a React element, which is a lightweight description of what to render.
+\item \textbf{React element} - React element. Created with JSX or React.createElement().
+\item You can put any JavaScript expression within braces inside JSX. Each React element is a real JavaScript object that you can store in a variable or pass around your program.
+\item In JavaScript classes, you need to explicitly call super(); when defining the constructor of a subclass.
+\item \textbf{this.setState} -Whenever this.setState is called, an update to the component is scheduled, causing React to merge in the passed state update and rerender the component along with its descendants.
+\item When you want to aggregate data from multiple children or to have two child components communicate with each other, move the state upwards so that it lives in the parent component. The parent can then pass the state back down to the children via props, so that the child components are always in sync with each other and with the parent.
+\item \textbf{Controlled Components} - receive their values from their parent and do not keep their own state.
+\item The biggest benefit of immutability in React comes when you build simple pure components. Since immutable data can more easily determine if changes have been made, it also helps to determine when a component requires being re-rendered.
+\item {props.onClick()} will not work because it would call props.onClick immediately instead of passing it down. Use {props.onClick}.
+\end{itemize}
+
+\section{Flexbox}
+
+\textbf{Why Flexbox}
+\begin{itemize}
+\item Vertically centering a block of content inside its parent.
+\item Making all the children of a container take up an equal amount of the available width/height, regardless of how much width/height is available.
+\item Making all columns in a multiple column layout adopt the same height even if they contain a different amount of content.
+\end{itemize}
+\textbf{How To - parent container}
+\begin{itemize}
+\item \textbf{display: flex;} - on the parent element to create a flex container.
+\item \textbf{flex-direction: column|row|column-reverse|row-reverse;} - on the parent element to specify the direction of the main flex axis.
+\item \textbf{flex-wrap: wrap;} - on the parent element to cause the rows or columns to wrap.
+\item \textbf{flex-flow: row wrap;} - shorthand to combine flex-direction and flex-wrap.
+\end{itemize}
+\textbf{How To - children}
+\begin{itemize}
+\item \textbf{flex: 1;} - controls what percentage of the space the child consumes. Shorthand for  flex-grow,  flex-shrink, and flex-basis.
+\item \textbf{align-items} - controls where the flex items sit on the cross axis.
+\item \textbf{align-self} - overrides align-items for an individual element.
+\item \textbf{order} - determines the order in which children will appear.
+\end{itemize}
+\onecolumn
