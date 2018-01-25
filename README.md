@@ -6,36 +6,53 @@ If you're looking to see what I'm up to, you most likely want to grab the pdf fi
 
 ## 2018
 
-My dual main goals are to A) study algorithms in depth and B) explore Physics. To that end, I am including a variety of Computer Science, Mathematics and Physics courses, with no prescribed order. I'll just select the next course in whatever list I'm most inspired to continue each time I'm ready to progress to a new course. (I've selected all three MITOCW lists from the course-paths, and I'll be hopping between them willy-nilly.)
+My dual main goals are to A) study algorithms in depth and B) explore Physics. To that end, I am including a variety of Computer Science, Mathematics and Physics courses, with no prescribed order. I'll just select the next course in whatever list I'm most inspired to continue each time I'm ready to progress to a new course. (I've selected all three MITOCW lists from the course-paths, and I'll be hopping between them willy-nilly.) Slight change of plans, I'm also going to learn React, Angular, and Vue thoroughly, I already know angular in depth, React at an intermediate level, and nothing about Vue. This is the year I learn their entire ecosystem and explore every nook and cranny. I'm adding "points values" for the official docs line items for the frontend frameworks guides, 50 points for "official docs" that are a section of a technology's official docs, and 300 points if the item is a technology's entire documentation.
 
 ## Progress
 
 Current Course: [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)  
 Courses Completed: 0  
-Total Points earned: 1655
+Total Points earned: 2070
 
-| Date Finished | Activity                  | Points | Links                                                                                                         |
+| Date Finished | Activity      | Points | Links     |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
-| 01-03-2018    | Blog Post                 | 15     | [Blog post kicking off Speedstudy](https://medium.com/p1xts-blog/speedstudy-2018-295d988f0c5c)                |
-| 01-03-2018    | Workout                   | 10     | [Body Beast](https://www.beachbody.com/product/fitness_programs/extreme/body-beast-workout.do) - Back and Bis |
-| 01-04-2018    | Duolingo (French level 2) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
-| 01-04-2018    | Duolingo (French level 3) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
-| 01-04-2018    | Duolingo (French level 4) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
-| 01-04-2018    | Workout                   | 10     | [Body Beast](https://www.beachbody.com/product/fitness_programs/extreme/body-beast-workout.do) - Shoulders    |
-| WIP           | Course                    | 500    | Introduction to Computer Science and Programming in Python                                                    |
-| 01-05-2018    | Duolingo (French level 5) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
-| 01-05-2018    | Duolingo (French level 6) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
-| 01-05-2018    | Workout                   | 10     | Les Mills Combat (30 minute)                                                                                  |
-| 01-06-2018    | Book                      | 200    | Incidents in the Life of a Slave Girl                                                                         |
-| 01-07-2018    | Workout                   | 10     | Body Beast - Chest and Tris                                                                                   |
-| 01-08-2018    | Duolingo (French level 7) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
-| 01-09-2018    | Duolingo (French level 8) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
-| 01-09-2018    | Duolingo (French level 8) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
-| 01-13-2018    | Duolingo (French level 9) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
-| 01-13-2018    | Duolingo (French level 10) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
-| 01-13-2018    | Book                      | 200    | Grokking Algorithms                                                                                           |
-| 01-15-2018    | Book                      | 200    | YDKJS: Up & Going                                                                                             |
-|               |                           |        |                                                                                                               |
+| 01-03-2018    | Blog Post     | 15     | [Blog post kicking off Speedstudy](https://medium.com/p1xts-blog/speedstudy-2018-295d988f0c5c)    |
+| 01-03-2018    | Workout       | 10     | [Body Beast](https://www.beachbody.com/product/fitness_programs/extreme/body-beast-workout.do) - Back and Bis |
+| 01-04-2018    | Duolingo (French level 2) | 100    | [Duolingo](https://www.duolingo.com/P1xt)     |
+| 01-04-2018    | Duolingo (French level 3) | 100    | [Duolingo](https://www.duolingo.com/P1xt)     |
+| 01-04-2018    | Duolingo (French level 4) | 100    | [Duolingo](https://www.duolingo.com/P1xt)     |
+| 01-04-2018    | Workout       | 10     | [Body Beast](https://www.beachbody.com/product/fitness_programs/extreme/body-beast-workout.do) - Shoulders    |
+| WIP           | Course        | 500    | Introduction to Computer Science and Programming in Python    |
+| 01-05-2018    | Duolingo (French level 5) | 100    | [Duolingo](https://www.duolingo.com/P1xt)     |
+| 01-05-2018    | Duolingo (French level 6) | 100    | [Duolingo](https://www.duolingo.com/P1xt)     |
+| 01-05-2018    | Workout       | 10     | Les Mills Combat (30 minute)      |
+| 01-06-2018    | Book          | 200    | Incidents in the Life of a Slave Girl         |
+| 01-07-2018    | Workout       | 10     | Body Beast - Chest and Tris       |
+| 01-08-2018    | Duolingo (French level 7) | 100    | [Duolingo](https://www.duolingo.com/P1xt)     |
+| 01-09-2018    | Duolingo (French level 8) | 100    | [Duolingo](https://www.duolingo.com/P1xt)     |
+| 01-09-2018    | Duolingo (French level 8) | 100    | [Duolingo](https://www.duolingo.com/P1xt)     |
+| 01-13-2018    | Duolingo (French level 9) | 100    | [Duolingo](https://www.duolingo.com/P1xt)     |
+| 01-13-2018    | Duolingo (French level 10) | 100    | [Duolingo](https://www.duolingo.com/P1xt)  |
+| 01-13-2018    | Book          | 200    | Grokking Algorithms   |
+| 01-15-2018    | Book          | 200    | YDKJS: Up & Going       |
+| 01-18-2018    | Book          | 200    | The Pragmatic Programmer     |
+| 01-19-2018 | HackerRank (10 Problems) | 50 ||
+| 01-21-2018 | HackerRank (10 Problems) | 50 ||
+| 01-24-2018    | Duolinglo (French level 11) | 100        | [Duolingo](https://www.duolingo.com/P1xt)           |
+| 01-25-2018  | Blog Post  |  15      |  [Angular — React — Vue](https://medium.com/p1xts-blog/angular-react-vue-655e89b655e2)     |
+
+|   |   |        |       |
+
+|   |   |        |       |
+
+|   |   |        |       |
+
+
+### Frontend Frameworks
+
+* [Angular](frontend-frameworks/angular.md)
+* [React](frontend-frameworks/react.md)
+* [Vue](frontend-frameworks/vue.md)
 
 ### MITOCW Computer Science
 
@@ -123,35 +140,37 @@ Total Points earned: 1655
 
 ## Bonus List
 
-| Activity                                                       | Points for completing | Activity type |
+| Activity   | Points for completing | Activity type |
 | -------------------------------------------------------------- | --------------------- | ------------- |
-| Basic Project                                                  | 100                   | project       |
-| Substantial Project                                            | 200                   | project       |
-| Large Project                                                  | 300                   | project       |
-| Gigantic Project                                               | 400                   | project       |
-| Duolingo or MosaLingua (1 level)                               | 100                   | foundation    |
-| Book                                                           | 200                   | foundation    |
-| Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course | 100                   | foundation    |
-| University level course (Coursera/edX/MITOCW/etc)              | 500                   | foundation    |
-| Physical Activity (30 minutes)                                 | 10                    | foundation    |
-| Musical Instrument Practice (30 minutes)                       | 10                    | foundation    |
-| Khan Academy (30 minutes)                                      | 10                    | foundation    |
-| Analytics Vidhya Competition                                   | 50                    | data-science  |
-| Crowd Analytix Competition                                     | 50                    | data-science  |
-| Kaggle Competition                                             | 50                    | data-science  |
-| Driven Data Competition                                        | 50                    | data-science  |
-| Blog Post on any topic                                         | 15                    | communication |
-| Blog Post Tutorial                                             | 40                    | communication |
-| Video Tutorial                                                 | 50                    | communication |
-| Open Source PR                                                 | 50                    | communication |
-| Module to npm                                                  | 200                   | communication |
-| Team Up for a project                                          | 100                   | communication |
-| Diary entry                                                    | 5                     | communication |
-| CodeWars (10 problems)                                         | 50                    | algorithms    |
-| CodinGame (1 Tier)                                             | 100                   | algorithms    |
-| CodinGame (1 Bot Competition)                                  | 20                    | algorithms    |
-| HackerRank (10 problems)                                       | 50                    | algorithms    |
-| Google Code Jam (1 round from past contest)                    | 100                   | algorithms    |
+| Basic Project              | 100       | project       |
+| Substantial Project        | 200       | project       |
+| Large Project              | 300       | project       |
+| Gigantic Project           | 400       | project       |
+| Official Docs (part) | 50 | foundation | 
+| Official Docs (total) | 300 | foundation | 
+| Duolingo or MosaLingua (1 level)       | 100       | foundation    |
+| Book       | 200       | foundation    |
+| Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course | 100       | foundation    |
+| University level course (Coursera/edX/MITOCW/etc)  | 500       | foundation    |
+| Physical Activity (30 minutes)         | 10        | foundation    |
+| Musical Instrument Practice (30 minutes)           | 10        | foundation    |
+| Khan Academy (30 minutes)              | 10        | foundation    |
+| Analytics Vidhya Competition           | 50        | data-science  |
+| Crowd Analytix Competition             | 50        | data-science  |
+| Kaggle Competition         | 50        | data-science  |
+| Driven Data Competition    | 50        | data-science  |
+| Blog Post on any topic     | 15        | communication |
+| Blog Post Tutorial         | 40        | communication |
+| Video Tutorial             | 50        | communication |
+| Open Source PR             | 50        | communication |
+| Module to npm              | 200       | communication |
+| Team Up for a project      | 100       | communication |
+| Diary entry    | 5         | communication |
+| CodeWars (10 problems)     | 50        | algorithms    |
+| CodinGame (1 Tier)         | 100       | algorithms    |
+| CodinGame (1 Bot Competition)          | 20        | algorithms    |
+| HackerRank (10 problems)   | 50        | algorithms    |
+| Google Code Jam (1 round from past contest)        | 100       | algorithms    |
 
 ## Project ideas
 
