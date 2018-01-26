@@ -1,7 +1,7 @@
 import React from 'react';
-import HeroUnit from '../HeroUnit/HeroUnit';
-import Content from '../Content/Content';
-import Footer from '../Footer/Footer';
+import HeroUnit from '../HeroUnit';
+import Content from '../Content';
+import Footer from '../Footer';
 
 import './App.css';
 
