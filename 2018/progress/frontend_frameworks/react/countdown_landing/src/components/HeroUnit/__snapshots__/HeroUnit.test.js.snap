@@ -7,11 +7,11 @@ exports[`<HeroUnit /> renders correctly 1`] = `
   <div
     className="HeroUnit__transparency"
   />
-  <div
+  <button
     className="Logo"
   >
-    Logo
-  </div>
+    Landing Page
+  </button>
   <div
     className="Countdown"
   >
