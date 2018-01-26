@@ -4,6 +4,20 @@ exports[`<HeroUnit /> renders correctly 1`] = `
 <div
   className="HeroUnit"
 >
-  HeroUnit
+  <div
+    className="Logo"
+  >
+    Logo
+  </div>
+  <div
+    className="Countdown"
+  >
+    Countdown
+  </div>
+  <div
+    className="NotifyButton"
+  >
+    NotifyButton
+  </div>
 </div>
 `;
