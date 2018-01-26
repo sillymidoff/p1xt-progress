@@ -1,3 +1,3 @@
-import Countdown from './CountdownApp';
+import Countdown from './Countdown';
 
 export default Countdown;
