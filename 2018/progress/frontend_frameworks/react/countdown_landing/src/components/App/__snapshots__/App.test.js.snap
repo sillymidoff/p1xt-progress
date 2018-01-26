@@ -1,7 +1,23 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders correctly 1`] = `
+exports[`<App /> renders correctly 1`] = `
 <div
   className="App"
-/>
+>
+  <div
+    className="HeroUnit"
+  >
+    HeroUnit
+  </div>
+  <div
+    className="Content"
+  >
+    Content
+  </div>
+  <div
+    className="Footer"
+  >
+    Footer
+  </div>
+</div>
 `;
