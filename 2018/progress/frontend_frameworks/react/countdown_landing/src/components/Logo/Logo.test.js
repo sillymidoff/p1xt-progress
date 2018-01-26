@@ -16,4 +16,7 @@ describe('<Logo />', () => {
       .toJSON();
     expect(tree).toMatchSnapshot();
   });
+  it('renders Landing Page text', () => {
+    expect(wrapper.text()).toBe('Landing Page');
+  });
 });
