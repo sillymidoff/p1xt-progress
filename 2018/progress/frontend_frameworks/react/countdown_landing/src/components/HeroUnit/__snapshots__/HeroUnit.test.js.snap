@@ -5,6 +5,9 @@ exports[`<HeroUnit /> renders correctly 1`] = `
   className="HeroUnit"
 >
   <div
+    className="HeroUnit__transparency"
+  />
+  <div
     className="Logo"
   >
     Logo

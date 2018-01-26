@@ -4,6 +4,6 @@ exports[`<Content /> renders correctly 1`] = `
 <div
   className="Content"
 >
-  Content
+  Photo by Benjamin Voros on Unsplash
 </div>
 `;

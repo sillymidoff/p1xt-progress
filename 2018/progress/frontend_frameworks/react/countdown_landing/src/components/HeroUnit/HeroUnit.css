@@ -1,3 +1,19 @@
 .HeroUnit {
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    background: url(/assets/images/benjamin-voros-250200.jpg);
+    background-size: 100vw;
+    min-height: 500px;
+    width: 100vw;
+}
+
+.HeroUnit__transparency {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #272727;
+    opacity: .8;
+    height: 500px;
+    width: 100vw;
 }
