@@ -2,10 +2,14 @@
     text-align: center;
     display: flex;
     flex-direction: column;
+    /* 
     background: url(/assets/images/benjamin-voros-250200.jpg);
-    background-size: 100vw;
-    min-height: 500px;
+    */
+    background-image: url('https://placekitten.com/1000/600?image=2');
+    background-size: cover;
+    height: 500px;
     width: 100vw;
+    ;
 }
 
 .HeroUnit__transparency {
@@ -16,4 +20,5 @@
     opacity: .8;
     height: 500px;
     width: 100vw;
+    ;
 }
