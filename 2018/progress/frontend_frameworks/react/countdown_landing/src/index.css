@@ -6,4 +6,6 @@ body {
 
 .container {
     max-width: 970px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
