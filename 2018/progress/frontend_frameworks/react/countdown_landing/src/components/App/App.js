@@ -2,6 +2,7 @@ import React from 'react';
 import HeroUnit from '../HeroUnit';
 import Content from '../Content';
 import Footer from '../Footer';
+import Subscribe from '../Subscribe';
 
 import './App.css';
 
@@ -10,6 +11,7 @@ function App(props) {
     <div className="App">
       <HeroUnit />
       <Content />
+      <Subscribe />
       <Footer />
     </div>
   );
