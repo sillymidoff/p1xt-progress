@@ -1,3 +1,22 @@
 .Content {
-    text-align: center;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 100px;
+}
+
+.Content__banner {
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    width: 50%;
+}
+
+.Content__details {
+    font-family: 'Dosis', sans-serif;
+    width: 50%;
+}
+
+.Content__notes {
+    font-family: 'Roboto', sans-serif;
 }
