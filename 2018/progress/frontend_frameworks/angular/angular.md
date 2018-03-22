@@ -25,9 +25,9 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 * Use Angular Material
 * Use Bootstrap 
 ----    
-- [ ]  Official Docs: [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-- [ ]  Official Docs: [Angular](https://angular.io/) - About Angular, all sections, pay special attention to the resources section, and within it: Angular CLI, Augury, Codelyzer, Lite-Server, and Ionic.
-- [ ]  Official Docs: [Angular](https://angular.io/) - Getting Started
+- [x]  Official Docs: [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- [x]  Official Docs: [Angular](https://angular.io/) - About Angular, all sections, pay special attention to the resources section, and within it: Angular CLI, Augury, Codelyzer, Lite-Server, and Ionic.
+- [x]  Official Docs: [Angular](https://angular.io/) - Getting Started
 - [ ]  Official Docs: [Angular](https://angular.io/) - Tutorial, all sections
 - [ ]  Official Docs: [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Angular application with it as your inspiration (do not use its assets)

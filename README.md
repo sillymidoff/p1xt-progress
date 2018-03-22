@@ -12,7 +12,7 @@ My dual main goals are to A) study algorithms in depth and B) explore Physics. T
 
 Current Course: [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)  
 Courses Completed: 0  
-Total Points earned: 2170
+Total Points earned: 3270
 
 | Date Finished | Activity      | Points | Links     |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
@@ -42,13 +42,17 @@ Total Points earned: 2170
 | 01-25-2018  | Blog Post  |  15      |  [Angular — React — Vue](https://medium.com/p1xts-blog/angular-react-vue-655e89b655e2)     |
 | 01-25-2018  | Official Docs  |  50      |  [Intro To React](https://reactjs.org/tutorial/tutorial.html) - All sections      |
 | 01-25-2018  | Official Docs  |  50      |  [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)     |
-
+| 03-21-2018  | Official Docs  | 50       |   [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)    |
+| 03-21-2018  | Official Docs   |  50      | [Angular](https://angular.io/features) - About Angular      |
+| 03-21-2018  | Official Docs   |  50      | [Angular](https://angular.io/guide/quickstart) - Angular QuickStart      |
+| 03-21-2018  | Official Docs   |  50      | [Angular](https://angular.io/tutorial) - Angular Tutorial      |
 |   |   |        |       |
-
 |   |   |        |       |
-
 |   |   |        |       |
-
+|   |   |        |       |
+|   |   |        |       |
+|   |   |        |       |
+|   |   |        |       |
 
 ### Frontend Frameworks
 
