@@ -46,7 +46,7 @@ Total Points earned: 3270
 | 03-21-2018  | Official Docs   |  50      | [Angular](https://angular.io/features) - About Angular      |
 | 03-21-2018  | Official Docs   |  50      | [Angular](https://angular.io/guide/quickstart) - Angular QuickStart      |
 | 03-21-2018  | Official Docs   |  50      | [Angular](https://angular.io/tutorial) - Angular Tutorial      |
-|   |   |        |       |
+| 03-22-2018  | Official Docs   |  50      | [Angular](https://angular.io/) - Tutorial, all sections      |
 |   |   |        |       |
 |   |   |        |       |
 |   |   |        |       |
