@@ -47,7 +47,7 @@ Total Points earned: 3270
 | 03-21-2018  | Official Docs   |  50      | [Angular](https://angular.io/guide/quickstart) - Angular QuickStart      |
 | 03-21-2018  | Official Docs   |  50      | [Angular](https://angular.io/tutorial) - Angular Tutorial      |
 | 03-22-2018  | Official Docs   |  50      | [Angular](https://angular.io/) - Tutorial, all sections      |
-|   |   |        |       |
+| 04-02-2018  | Project/Blog Post  | 350       |  Completed research and published my next guide [Computer Science and Backend Development — Java Focus](https://medium.com/p1xts-blog/computer-science-and-backend-development-java-focus-73f04a831fe1)     |
 |   |   |        |       |
 |   |   |        |       |
 |   |   |        |       |
