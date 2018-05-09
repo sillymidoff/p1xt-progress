@@ -5,8 +5,12 @@ In each folder, separated by year, are my notes, etc related to what I'm studyin
 If you're looking to see what I'm up to, you most likely want to grab the pdf file, as I'm recording everything in latex and it's being all consolidated into [progress.pdf](2018/progress/progress.pdf).
 
 ## 2018
-
-My dual main goals are to A) study algorithms in depth and B) explore Physics. To that end, I am including a variety of Computer Science, Mathematics and Physics courses, with no prescribed order. I'll just select the next course in whatever list I'm most inspired to continue each time I'm ready to progress to a new course. (I've selected all three MITOCW lists from the course-paths, and I'll be hopping between them willy-nilly.) Slight change of plans, I'm also going to learn React, Angular, and Vue thoroughly, I already know angular in depth, React at an intermediate level, and nothing about Vue. This is the year I learn their entire ecosystem and explore every nook and cranny. I'm adding "points values" for the official docs line items for the frontend frameworks guides, 50 points for "official docs" that are a section of a technology's official docs, and 300 points if the item is a technology's entire documentation.
+Learning goals:
+* Javascript
+* Algorithms
+* Python
+* Angular/Vue
+* Kafka/Scala
 
 ## Progress
 
@@ -18,10 +22,6 @@ Total Points earned: 3270
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
 | 01-03-2018    | Blog Post     | 15     | [Blog post kicking off Speedstudy](https://medium.com/p1xts-blog/speedstudy-2018-295d988f0c5c)    |
 | 01-03-2018    | Workout       | 10     | [Body Beast](https://www.beachbody.com/product/fitness_programs/extreme/body-beast-workout.do) - Back and Bis |
-| 01-04-2018    | Duolingo (French level 2) | 100    | [Duolingo](https://www.duolingo.com/P1xt)     |
-| 01-04-2018    | Duolingo (French level 3) | 100    | [Duolingo](https://www.duolingo.com/P1xt)     |
-| 01-04-2018    | Duolingo (French level 4) | 100    | [Duolingo](https://www.duolingo.com/P1xt)     |
-| 01-04-2018    | Workout       | 10     | [Body Beast](https://www.beachbody.com/product/fitness_programs/extreme/body-beast-workout.do) - Shoulders    |
 | WIP           | Course        | 500    | Introduction to Computer Science and Programming in Python    |
 | 01-05-2018    | Duolingo (French level 5) | 100    | [Duolingo](https://www.duolingo.com/P1xt)     |
 | 01-05-2018    | Duolingo (French level 6) | 100    | [Duolingo](https://www.duolingo.com/P1xt)     |
